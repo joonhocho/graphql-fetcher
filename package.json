@@ -1,5 +1,5 @@
 {
-  "name": "graphql-fetch",
+  "name": "graphql-fetcher",
   "version": "0.0.1",
   "description": "A GraphQL data fetcher using fetch API.",
   "main": "lib/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joonhocho/graphql-fetch.git"
+    "url": "git+https://github.com/joonhocho/graphql-fetcher.git"
   },
   "keywords": [
     "GraphQL",
@@ -33,9 +33,9 @@
   "author": "Joon Ho Cho",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joonhocho/graphql-fetch/issues"
+    "url": "https://github.com/joonhocho/graphql-fetcher/issues"
   },
-  "homepage": "https://github.com/joonhocho/graphql-fetch#readme",
+  "homepage": "https://github.com/joonhocho/graphql-fetcher#readme",
   "dependencies": {
     "babel-runtime": "^6.9.2"
   },

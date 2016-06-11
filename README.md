@@ -1,8 +1,8 @@
-# graphql-fetch
-[![Build Status](https://travis-ci.org/joonhocho/graphql-fetch.svg?branch=master)](https://travis-ci.org/joonhocho/graphql-fetch)
-[![Coverage Status](https://coveralls.io/repos/github/joonhocho/graphql-fetch/badge.svg?branch=master)](https://coveralls.io/github/joonhocho/graphql-fetch?branch=master)
-[![npm version](https://badge.fury.io/js/graphql-fetch.svg)](https://badge.fury.io/js/graphql-fetch)
-[![Dependency Status](https://david-dm.org/joonhocho/graphql-fetch.svg)](https://david-dm.org/joonhocho/graphql-fetch)
+# graphql-fetcher
+[![Build Status](https://travis-ci.org/joonhocho/graphql-fetcher.svg?branch=master)](https://travis-ci.org/joonhocho/graphql-fetcher)
+[![Coverage Status](https://coveralls.io/repos/github/joonhocho/graphql-fetcher/badge.svg?branch=master)](https://coveralls.io/github/joonhocho/graphql-fetcher?branch=master)
+[![npm version](https://badge.fury.io/js/graphql-fetcher.svg)](https://badge.fury.io/js/graphql-fetcher)
+[![Dependency Status](https://david-dm.org/joonhocho/graphql-fetcher.svg)](https://david-dm.org/joonhocho/graphql-fetcher)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 
@@ -11,13 +11,13 @@ A GraphQL data fetcher using fetch API.
 
 ### Install
 ```
-npm install --save graphql-fetch
+npm install --save graphql-fetcher
 ```
 
 
 ### Usage
 ```javascript
-import createGraphQLFetcher from 'graphql-fetch';
+import createGraphQLFetcher from 'graphql-fetcher';
 
 const fetcher = createGraphQLFetcher({
   // [REQUIRED] default = null
